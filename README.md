@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/flextape.svg)](https://badge.fury.io/js/flextape)
+
 # flextape-js
 ## Sawed your string in half? Slap on some Flex Tape!
 
