@@ -1,0 +1,29 @@
+{
+  "name": "flextape",
+  "version": "1.0.0",
+  "description": "Sawed your string in half? Slap on some Flex Tape!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://paste.bashfu.nyc/thing.git"
+  },
+  "keywords": [
+    "flextape",
+    "concat",
+    "flex",
+    "tape",
+    "jontron",
+    "memes"
+  ],
+  "author": "IKnowBashFu",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
