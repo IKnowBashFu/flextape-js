@@ -1,6 +1,6 @@
 {
   "name": "flextape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sawed your string in half? Slap on some Flex Tape!",
   "main": "index.js",
   "scripts": {
@@ -20,9 +20,6 @@
   ],
   "author": "IKnowBashFu",
   "license": "ISC",
-  "dependencies": {
-    "npm": "^6.1.0"
-  },
   "devDependencies": {
     "mocha": "^5.2.0"
   }
