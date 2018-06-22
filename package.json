@@ -1,6 +1,6 @@
 {
   "name": "flextape",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sawed your string in half? Slap on some Flex Tape!",
   "main": "index.js",
   "scripts": {

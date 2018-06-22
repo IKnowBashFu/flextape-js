@@ -6,7 +6,11 @@ module.exports = {
 	slap (...args) {
 		returnstring = "";
 		args.forEach(arg => {
-			returnstring += arg;
+			if (Array.isArray(arg)) {
+				returnstring += arg.join(" ");
+			} else {
+				returnstring += arg;
+			}
 		});
 		return returnstring;
 	}
